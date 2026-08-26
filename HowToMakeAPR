@@ -1,0 +1,27 @@
+🧭 Step-by-Step Guide
+Create a branch  
+Start by making a new branch for your changes. This keeps your work separate from the main branch.
+
+Make and commit changes  
+Edit files locally or directly on GitHub. Save your work with clear commit messages.
+
+Push your branch  
+Upload your branch to GitHub so it’s available for review.
+
+Open the repository  
+Navigate to the repository where you want to propose changes.
+
+Click “Pull requests” tab  
+Select “New pull request.” GitHub will prompt you to compare your branch with the base branch.
+
+Select base and compare branches  
+The base branch is usually main. The compare branch is the one with your changes.
+
+Add title and description  
+Write a concise title and explain the purpose of your changes in the description.
+
+Assign reviewers  
+Optionally, tag teammates to review your code.
+
+Click “Create pull request”  
+Submit your proposal. You can also create a draft pull request if your work isn’t ready yet.
