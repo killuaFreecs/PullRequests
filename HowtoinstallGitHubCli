@@ -1,0 +1,43 @@
+You can install GitHub CLI (gh) on macOS, Windows, or Linux using package managers like Homebrew, apt, winget, or by downloading binaries, then authenticate with gh auth login to start creating pull requests, managing issues, and repositories directly from your terminal. 
+
+⚙️ Installation Methods
+macOS
+
+Homebrew: brew install gh
+
+MacPorts: sudo port install gh
+
+Conda: conda install gh --channel conda-forge
+
+Direct download: .pkg installer from GitHub releases
+
+Linux
+
+Debian/Ubuntu: sudo apt install gh
+
+Fedora/RHEL: sudo dnf install gh
+
+openSUSE: sudo zypper install gh
+
+Precompiled binaries: .deb, .rpm, .tar.gz from GitHub releases
+
+Windows
+
+Winget: winget install --id GitHub.cli
+
+Scoop: scoop install gh
+
+Chocolatey: choco install gh
+
+MSI installer from GitHub releases
+
+🔑 Authentication
+After installation, run:
+
+bash
+gh auth login
+Choose GitHub.com or your enterprise server.
+
+Select HTTPS or SSH for Git operations.
+
+Follow prompts to authenticate with your GitHub account.
